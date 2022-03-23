@@ -1,0 +1,15 @@
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\bin\Debug\net6.0\TestConsApp.exe
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\bin\Debug\net6.0\TestConsApp.deps.json
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\bin\Debug\net6.0\TestConsApp.runtimeconfig.json
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\bin\Debug\net6.0\TestConsApp.dll
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\bin\Debug\net6.0\TestConsApp.pdb
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\obj\Debug\net6.0\TestConsApp.csproj.AssemblyReference.cache
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\obj\Debug\net6.0\TestConsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\obj\Debug\net6.0\TestConsApp.AssemblyInfoInputs.cache
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\obj\Debug\net6.0\TestConsApp.AssemblyInfo.cs
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\obj\Debug\net6.0\TestConsApp.csproj.CoreCompileInputs.cache
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\obj\Debug\net6.0\TestConsApp.dll
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\obj\Debug\net6.0\refint\TestConsApp.dll
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\obj\Debug\net6.0\TestConsApp.pdb
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\obj\Debug\net6.0\TestConsApp.genruntimeconfig.cache
+C:\Users\Albert\source\repos\TestConsApp\TestConsApp\obj\Debug\net6.0\ref\TestConsApp.dll
